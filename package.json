@@ -1,0 +1,29 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "bezier-easing": "^2.1.0",
+    "bindall-standalone": "^1.0.5",
+    "gsap": "^3.11.3",
+    "lethargy": "^1.0.9",
+    "locomotive-scroll": "^4.1.4",
+    "object-assign": "^4.1.1",
+    "smooth-scrollbar": "^8.8.1",
+    "smoothscroll-polyfill": "^0.4.4",
+    "tiny-emitter": "^1.2.0",
+    "virtual-scroll": "^1.5.2"
+  },
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "prod": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.56.1"
+  },
+  "description": ""
+}
